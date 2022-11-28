@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		45348A492933D6A800F27272 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45348A482933D6A800F27272 /* ChatViewController.swift */; };
 		457A4DDD2933B49B00E044E1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457A4DDC2933B49B00E044E1 /* AppDelegate.swift */; };
 		457A4DDF2933B49B00E044E1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457A4DDE2933B49B00E044E1 /* SceneDelegate.swift */; };
 		457A4DE12933B49B00E044E1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457A4DE02933B49B00E044E1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		45348A482933D6A800F27272 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		457A4DD92933B49B00E044E1 /* lesson_3.3_home_work_new.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lesson_3.3_home_work_new.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		457A4DDC2933B49B00E044E1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		457A4DDE2933B49B00E044E1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				457A4DDC2933B49B00E044E1 /* AppDelegate.swift */,
 				457A4DDE2933B49B00E044E1 /* SceneDelegate.swift */,
 				457A4DE02933B49B00E044E1 /* ViewController.swift */,
+				45348A482933D6A800F27272 /* ChatViewController.swift */,
 				457A4DE22933B49B00E044E1 /* Main.storyboard */,
 				457A4DE52933B49D00E044E1 /* Assets.xcassets */,
 				457A4DE72933B49D00E044E1 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				457A4DE12933B49B00E044E1 /* ViewController.swift in Sources */,
 				457A4DDD2933B49B00E044E1 /* AppDelegate.swift in Sources */,
+				45348A492933D6A800F27272 /* ChatViewController.swift in Sources */,
 				457A4DDF2933B49B00E044E1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
